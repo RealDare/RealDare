@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RealDare
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html, CSS and JS
